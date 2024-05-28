@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The e2e Boilerplate has been deprecated.  WooCommerce Core transitioned it's e2e testing to Playwright some time ago, and since then the e2e Environment and Utils packages used in the Boilerplate have been deprecated.
+
 # WooCommerce E2E Tests Boilerplate
 
 Are you looking to set up E2E tests for your WooCommerce extension? Then you can make use of the default WooCommerce E2E package.
